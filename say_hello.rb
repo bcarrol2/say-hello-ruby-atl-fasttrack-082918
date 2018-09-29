@@ -7,4 +7,4 @@ def say_hello(name)
   name
 end
 
-say_hello(Blair)
+say_hello("Blair Carroll")
