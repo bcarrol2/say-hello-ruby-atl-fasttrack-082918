@@ -3,4 +3,4 @@ def say_hello(name)
   puts name
 end
 
-say_hello("Kent Beck")
+say_hello("Hello Kent Beck!")
