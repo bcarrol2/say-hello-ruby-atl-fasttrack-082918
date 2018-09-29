@@ -3,8 +3,8 @@ def hello_world
   puts "hello world"
 end
 
-def say_hello(beef)
-  beef
+def say_hello(name)
+  name
 end
 
 say_hello(Blair)
