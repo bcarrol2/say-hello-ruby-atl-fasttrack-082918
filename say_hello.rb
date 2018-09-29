@@ -4,7 +4,7 @@ def hello_world
 end
 
 def say_hello(name)
-  name
+  puts name
 end
 
 say_hello("Blair Carroll")
